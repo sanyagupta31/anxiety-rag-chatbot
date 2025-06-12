@@ -1,5 +1,6 @@
 streamlit
-PyMuPDF
-sentence-transformers
-faiss-cpu
 google-generativeai
+pdfplumber
+faiss-cpu
+sentence-transformers
+numpy
