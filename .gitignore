@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter/IPython
+.ipynb_checkpoints
+
+# Streamlit secrets
+.secrets.toml
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode or PyCharm
+.vscode/
+.idea/
