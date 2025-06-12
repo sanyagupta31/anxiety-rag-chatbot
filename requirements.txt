@@ -1,6 +1,6 @@
 streamlit
 google-generativeai
-pdfplumber
-faiss-cpu
-sentence-transformers
+pdfplumber==0.10.3
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
 numpy
